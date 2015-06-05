@@ -14,5 +14,8 @@
   },
   "devDependencies": {
     "eslint": "^0.22.1"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.27"
   }
 }
