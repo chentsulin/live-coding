@@ -1,0 +1,15 @@
+{
+  "name": "live-coding",
+  "version": "0.1.0",
+  "description": "Coding go through whole git history",
+  "license": "MIT",
+  "repository": "chentsulin/live-coding",
+  "author": {
+    "name": "C.T. Lin",
+    "email": "chentsulin@gmail.com",
+    "url": "github.com/chentsulin/live-coding"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
